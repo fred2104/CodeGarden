@@ -1,0 +1,4 @@
+public object{
+	void doit() {
+	}
+}
