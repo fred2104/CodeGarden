@@ -1,5 +1,5 @@
 public object{
 	void doit() {
-		echo "hello,git"
+		echo "hello,github"
 	}
 }
